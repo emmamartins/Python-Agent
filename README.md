@@ -3,6 +3,12 @@
 
 ## Import Module
 ```
+pip install pytonik_agent
+
+```
+
+## Import Module
+```
 from pytonik_agent.browser import browser
 from pytonik_agent.os import os
 ```

@@ -1,5 +1,5 @@
 # pytonik Agent Module
-[pytonik](https://pypi.python.org/pypi/pytonik)  Agent Module get web browser and operating system information such as name and version
+[pytonik](https://pypi.python.org/pypi/pytonik) Agent Module, gets **user** or **visitor** web browser and operating system information such as name and version
 
 ## Import Module
 ```

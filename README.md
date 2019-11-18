@@ -34,6 +34,12 @@ browser().version
 os().name
 ```
 
+## get device
+
+```
+os().device
+```
+
 pytonik is open to questions and contributions, feel free to ask.
 
 ## Contact Information:

@@ -1,8 +1,8 @@
-[![Build Status](https://img.shields.io/pypi/v/pytonik_agent)](https://pypi.python.org/pypi/pytonik_agent)
-[![Downloads](https://img.shields.io/pypi/dm/pytonik_agent)](https://pypi.python.org/pypi/pytonik_agent/)
-[![Wheel](https://img.shields.io/pypi/wheel/pytonik_agent.svg)](https://pypi.python.org/pypi/pytonik_agent)
-[![Python Version](https://img.shields.io/pypi/pyversions/pytonik_agent)](https://pypi.python.org/pypi/pytonik_agent)
-[![License](https://img.shields.io/pypi/l/pytonik_agent)](https://pypi.python.org/pypi/pytonik_agent)
+[![Build Status](https://img.shields.io/pypi/v/pytonik_agent)](https://pypi.python.org/pypi/pytonik-agent)
+[![Downloads](https://img.shields.io/pypi/dm/pytonik_agent)](https://pypi.python.org/pypi/pytonik-agent/)
+[![Wheel](https://img.shields.io/pypi/wheel/pytonik_agent.svg)](https://pypi.python.org/pypi/pytonik-agent)
+[![Python Version](https://img.shields.io/pypi/pyversions/pytonik_agent)](https://pypi.python.org/pypi/pytonik-agent)
+[![License](https://img.shields.io/pypi/l/pytonik_agent)](https://pypi.python.org/pypi/pytonik-agent)
 
 # pytonik Agent Module
 [pytonik](https://pypi.python.org/pypi/pytonik) Agent Module, gets **user** or **visitor** web browser and operating system information such as name and version
